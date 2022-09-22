@@ -13,7 +13,7 @@
      render() {
          return (
              <div>
-                    <h1>Employee Form</h1>
+                    <h1>Add Employee Form</h1>
              </div>
          );
      }
